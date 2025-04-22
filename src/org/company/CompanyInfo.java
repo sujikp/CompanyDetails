@@ -23,4 +23,8 @@ private void companyName(int id ,String name,String location) {
 	c.companyName(1,"softTech");
 	c.companyName(2,"softTech","chennai");
 }
+  private void companyAddress(String name) {
+		
+		System.out.println("Company name :"+name);
+	}
 }
