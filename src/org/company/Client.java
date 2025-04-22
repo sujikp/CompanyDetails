@@ -6,7 +6,12 @@ public class Client {
 		System.out.println("Client Name");
 	}
 	
-	private void ClientId() {
+	private void clientId() {
 System.out.println("20");
 	}
+	
+	private void clientEmail() {
+System.out.println("xyz@gmail.com");
+	}
+	
 }
