@@ -5,4 +5,8 @@ public class Client {
 	public void clientName() {
 		System.out.println("Client Name");
 	}
+	
+	private void ClientId() {
+System.out.println("20");
+	}
 }
