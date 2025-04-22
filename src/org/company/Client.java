@@ -9,4 +9,9 @@ public class Client {
 	private void ClientId() {
 System.out.println("20");
 	}
+	
+	private void Client() {
+System.out.println("Client");
+	}
+	
 }
